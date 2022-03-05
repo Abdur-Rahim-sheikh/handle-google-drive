@@ -1,8 +1,9 @@
 # handle-google-drive
+**download these scripts and them in your drive related colab and it will help in the time of freaking pain with google drive file extraction and memory management**
+
 # 1 unzip drive file
 if your drive has large zipped file containing thousands of file then extracting it is painfull.
-time lengthy, does not works as wanted but more importantly
-**your data has to be extracted through third party so literally your data is stolen. So i built below script for myself
+time lengthy, does not works as wanted but more importantly **your data has to be extracted through third party so literally your data is stolen**. So i built below script for myself
 (and opened for you now)
 my unzip_drive_file.ipynb script will take path (like abir/images/mine.zip) where the file is located
 next it will take a path (like abir/collection) the destination and put everything in (abir/collection/mine) creating mine folder there and if there is already mine folder it will ask you permission too.
