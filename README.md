@@ -1,5 +1,5 @@
 # handle-google-drive
-**download these scripts and them in your drive related colab and it will help in the time of freaking pain with google drive file extraction and memory management**
+**download these scripts and upload them in your drive related colab and it will help in the time of freaking pain with google drive file extraction and memory management and more**
 
 # 1 unzip drive file
 if your drive has large zipped file containing thousands of file then extracting it is painfull.
