@@ -21,3 +21,9 @@ load this script to your google colab and run last 2 cell
 then give permission it asks for (totally safe as no third party included all handled by google colab)
 
 But if you want to delete a directry and empty the trash then run all cell there is some guidline in the script too.
+
+# 3 measure folder size and total content in it
+in google drive you don't know total number of picture or video or any document file in your folder. 
+If you run this script it will ask you a folder path, providing the folder path you can get size of the folder and number of file in the current folder.
+
+Bonus: Also it will inform about all the sub folder in that folder and there information too.
